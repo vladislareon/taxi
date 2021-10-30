@@ -4,6 +4,7 @@
 https://www.kaggle.com/c/nyc-taxi-trip-duration/overview
 
 В нем требуется предсказать длительность поездки на такси.
+
 В качестве модели используется линейная регрессиия(sklearn.linear_model).
 
 
